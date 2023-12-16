@@ -1,0 +1,15 @@
+../Core/Src/TP.c:63:6:TOUCH_Start	8	static
+../Core/Src/TP.c:75:6:TOUCH_Stop	8	static
+../Core/Src/TP.c:88:7:TOUCH_Wait_Ack	32	static
+../Core/Src/TP.c:120:6:TOUCH_Ack	8	static
+../Core/Src/TP.c:131:6:TOUCH_NAck	8	static
+../Core/Src/TP.c:144:6:TOUCH_Send_Byte	24	static
+../Core/Src/TP.c:161:7:TOUCH_Read_Byte	40	static
+../Core/Src/TP.c:191:7:GT911_WR_Reg	32	static
+../Core/Src/TP.c:213:6:GT911_RD_Reg	40	static
+../Core/Src/TP.c:239:7:GT911_Send_Cfg	24	static
+../Core/Src/TP.c:254:6:Draw_Big_Point	24	static
+../Core/Src/TP.c:282:7:GT911_read_data	96	static
+../Core/Src/TP.c:356:6:inttostr	16	static
+../Core/Src/TP.c:366:6:TOUCH_Init	8	static
+../Core/Src/TP.c:379:6:TPTEST	16	static
